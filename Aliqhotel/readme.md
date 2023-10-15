@@ -1,5 +1,8 @@
 ![image](https://github.com/prashanth-258/Power-bi-visualisations/assets/77273061/cb96bf42-724b-4736-a4fe-8d8ac6f9873a)
 
+
+Dashboard Link :- [Atliq hotel](https://app.powerbi.com/view?r=eyJrIjoiYmE0YzZlYmEtNjI0Ny00YWY1LTg0NmQtZTc0NjljOTYzNWI2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+
 **Important insights.**
 
 1) Mumbai generates the highest revenue (669 M) followed by Bangalore, Hyderabad and Delhi.
