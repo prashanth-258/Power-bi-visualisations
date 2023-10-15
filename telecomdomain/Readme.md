@@ -1,9 +1,13 @@
 ![image](https://github.com/prashanth-258/Power-bi-visualisations/assets/77273061/7f06fc85-3f93-4694-889b-1db048c0a722)
 
-About this project
+
+**Dashboard Link** :- [AtliQo Telecom](https://app.powerbi.com/view?r=eyJrIjoiNDM3ZTQ4MDEtYTJhNi00YzBkLWFjNGItMDI3M2U4NzhiNjJjIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+
+### About this project
+
 AtliQo is one of the leading 5G provider in India and launched its 5G plans in May 2022 along with other telecom providers. This report shows the comparison report of KPIs between pre- and post-periods of the 5G launch at various labels. As Management noticed a decline in their active users and revenue growth post 5G launch in May 2022.
 
-Insights
+### Insights
 
 1) The revenue reached its peak in February but has slightly decreased over the following two months. Despite 
    this decline, the revenue remains higher than before the launch of 5G, by approximately 0.05%.
